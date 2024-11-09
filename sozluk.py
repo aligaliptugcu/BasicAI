@@ -67,7 +67,7 @@ def yanit_ver(mesaj):
         "nasılsın": "Ben bir yapay zekayım, duygularım yok ama buradayım!",
         "güle güle": "Hoşça kal! Umarım tekrar görüşürüz.",
         "sa": "Aleyküm Selam",
-        "güncellemeler": "Mesaj limitim 10'a çıkarıldı, sozlük.py geliştirildi ve yanıt yazma animasyonu geldi.",
+        "güncellemeler": "Mesaj limitim 10'a çıkarıldı, sozluk.py geliştirildi ve yanıt yazma animasyonu geldi. Başka bir konuda yardımcı olabilir miyim?",
         "yok": "Tamam.",
         "çok konuda yardımcı olabilirsin": "Mesela hangi konularda?",
         "bence harika": "Teşekkürler. Başka bir konuda yardımcı olabilir miyim?",
